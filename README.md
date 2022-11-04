@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulazizMohammedK" alt="AbdulazizMohammedK" /></a> </p>
 
-- 🌱 I’m currently learning **Android Apps Development**
+- 🌱 I’m currently learning **Jetpack Compose and Ktor**
 
 - 💬 Ask me about **Kotlin ,Android**
 
