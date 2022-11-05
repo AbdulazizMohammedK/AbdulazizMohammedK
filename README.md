@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AbdulazizMohammedK" alt="AbdulazizMohammedK" /></a> </p>
 
-- 🌱 I’m currently learning **Jetpack Compose and Ktor**
+- 🌱 I’m currently learning **Jetpack Compose and Django**
 
-- 💬 Ask me about **Kotlin ,Android**
+- 💬 Ask me about **Kotlin, Android**
 
 - 📫 How to reach me **abdulazizkmity@gmail.com**
 
